@@ -8,7 +8,7 @@ In this project, we leverage Google stock market data from the year 2010 upto 20
 
 # Dataset
 
-The dataset is readily avaialble online in yfinance, following is the command to import the dataset properly, make sure to pip install yfinance in your terminal (virtual environment):
+The dataset is readily avaialble from yfinance library, following is the command to import the dataset properly, make sure to pip install yfinance in your terminal (virtual environment):
 ```
 import yfinance as yf
 
@@ -19,3 +19,12 @@ df = yf.download('GOOG', start='2010-01-01', end='2024-12-01')
 print(df.head())
 
 ```
+
+# Model Training
+The LSTM model is built using deep learning frameworks like TensorFlow or PyTorch. We train the model on the training dataset, adjusting hyperparameters such as the number of hidden layers, the number of neurons per layer, and the learning rate. 
+
+# Model Evaluation and Metrics
+Once the model is trained, we evaluate its performance on the testing dataset. We compute various metrics such as mean squared error (MSE),  root mean squared error (RMSE), and mean absolute error (MAE), R2 score, and mape to assess the model's accuracy. We visualize the predicted stock prices alongside the actual prices to gain insights into the model's performance.
+
+# Results
+
