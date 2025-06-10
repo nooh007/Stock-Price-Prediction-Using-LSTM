@@ -4,7 +4,7 @@ This repository contains the code and resources for predicting stock market tren
 
 # Project Overview 
 
-In this project, we leverage Google stock market data from the year 2010 upto 2024 to train an LSTM model. The model learns from past price patterns and trends, enabling it to predict future stock prices. The LSTM network is specifically designed to capture long-term dependencies and has proven to be effective in time series forecasting tasks.
+The project is implemented in GOOGLECOLAB, We have used Google stock market data from the year 2010 upto 2024 to train an LSTM model. The model learns from past price patterns and trends, enabling it to predict future stock prices. The LSTM network is specifically designed to capture long-term dependencies and has proven to be effective in time series forecasting tasks.
 
 # Dataset
 
