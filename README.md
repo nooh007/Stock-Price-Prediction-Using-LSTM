@@ -29,8 +29,8 @@ Once the model is trained, we evaluate its performance on the testing dataset. W
 # Results
 ## model Predictions vs Groundtruth
 </br>
-<img src="https://github.com/nooh007/Stock-Price-Prediction-Using-LSTM/blob/main/Images/lstm%20prediction%20.png" width="300">
-<img src="https://github.com/nooh007/Stock-Price-Prediction-Using-LSTM/blob/main/Images/rnn%20prediction%20graph.png" width="300">
+<img src="https://github.com/nooh007/Stock-Price-Prediction-Using-LSTM/blob/main/Images/lstm%20prediction%20.png" width="600">
+<img src="https://github.com/nooh007/Stock-Price-Prediction-Using-LSTM/blob/main/Images/rnn%20prediction%20graph.png" width="550">
 </br>
 
 ## model Performance metrics
