@@ -34,10 +34,11 @@ Once the model is trained, we evaluate its performance on the testing dataset. W
 <img src="https://github.com/nooh007/Stock-Price-Prediction-Using-LSTM/blob/main/Images/rnn%20prediction%20graph.png" width="545">
 
 ## model Performance metrics
-</br>
-<img src="" width="300">
-<img src="" width="300">
-</br>
+## LSTM
+<img src="https://github.com/nooh007/Stock-Price-Prediction-Using-LSTM/blob/main/Images/model%20performance%20metrics%20lstm.png" width="300">
+
+## RNN
+<img src="https://github.com/nooh007/Stock-Price-Prediction-Using-LSTM/blob/main/Images/model%20performance%20metrics%20rnn.png" width="300">
 
 
 
