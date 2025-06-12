@@ -27,11 +27,11 @@ The LSTM model is built using deep learning frameworks like TensorFlow or PyTorc
 Once the model is trained, we evaluate its performance on the testing dataset. We compute various metrics such as mean squared error (MSE),  root mean squared error (RMSE), and mean absolute error (MAE), R2 score, and mape to assess the model's accuracy. We visualize the predicted stock prices alongside the actual prices to gain insights into the model's performance.
 
 # Results
-## model Predictions vs Groundtruth
-</br>
+## LSTM
 <img src="https://github.com/nooh007/Stock-Price-Prediction-Using-LSTM/blob/main/Images/lstm%20prediction%20.png" width="600">
+
+## RNN
 <img src="https://github.com/nooh007/Stock-Price-Prediction-Using-LSTM/blob/main/Images/rnn%20prediction%20graph.png" width="545">
-</br>
 
 ## model Performance metrics
 </br>
